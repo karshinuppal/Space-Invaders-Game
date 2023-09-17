@@ -9,7 +9,9 @@ This project is a recreation of the Space Invaders game using Python and the Pyg
 **Controls:**
 
 -Move the ship: Left and Right arrow keys
+
 -Shoot: Spacebar
+
 -Quit the game: Esc key or close the game window
 
 **Features:**
